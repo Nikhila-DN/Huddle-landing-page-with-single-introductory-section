@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/Nikhila-DN/Huddle-landing-page-with-single-introductory-section.git
+- Live Site URL: https://nikhila-dn.github.io/Huddle-landing-page-with-single-introductory-section/
 
 ## My process
 
